@@ -3,3 +3,4 @@ hello world
 =======
 hello guru
 >>>>>>> f0d08aa (file8 added)
+hi
